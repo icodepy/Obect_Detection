@@ -10,7 +10,7 @@
 7. How to find contours and write code for them
 8. how to apply contours to the detected object.
 
-This is my first Object Detection(OD) project using OpenCv, python. Using YOLO- you only look once- is the most preferable way of doing the same these days. My next OD proect would be based on YOLO. 
+This is my first Object Detection(OD) project using OpenCv, python. Using YOLO- you only look once- is the most preferable way of doing the same these days. My next OD project would be based on YOLO. 
 
 YOLO Guys!!
 Amir Hasan

@@ -1,4 +1,4 @@
-# Obect_Detection
+# Object_Detection
 •keep the image in the directory where the source code file is kept. 
 • please follow the opencv documentation to understand the meaning of the code_statements and many other concepts such as:
 1. what is a color flag,
